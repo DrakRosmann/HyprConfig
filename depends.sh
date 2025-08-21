@@ -28,7 +28,7 @@ sudo pacman -S greetd
 sudo pacman -S python-cairo
 sudo pacman -S networkmanager
 sudo pacman -S hyprshot
-sudo yay -S python-materialyoucolor-git
-sudo yay -S libastal-bluetooth-git
-sudo yay -S libastal-wireplumber-git
-sudo yay -S ttf-material-symbols-variable-git
+yay -S python-materialyoucolor-git
+yay -S libastal-bluetooth-git
+yay -S libastal-wireplumber-git
+yay -S ttf-material-symbols-variable-git
